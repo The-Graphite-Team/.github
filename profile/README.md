@@ -22,7 +22,7 @@ We like breaking things, figuring out why they broke, and occasionally fixing th
 - Break things to understand them.
 - Build with purpose, experiment freely.
 - Automate the repetitive.
-- Keep our work open, where possible.
+- Keep our work open, where possible. (unless it's better to keep closed)
 - Hack responsibly.
 
 ---
